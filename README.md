@@ -21,10 +21,6 @@ RACKSYNC is a specialized team focusing on IoT solutions, infrastructure automat
 - **EdgeFlow** - Edge computing framework for industrial applications
 - **CloudBridge** - Seamless connectivity between on-premise systems and cloud services
 
-## 📊 GitHub Stats
-
-![RACKSYNC's GitHub stats](https://github-readme-stats.vercel.app/api?username=racksync&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=racksync&layout=compact&theme=radical)
 
 ## 📫 Connect With Us
 
