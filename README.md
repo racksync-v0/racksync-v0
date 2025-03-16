@@ -32,6 +32,7 @@ RACKSYNC is a specialized team focusing on IoT solutions, infrastructure automat
 - 👨‍💻 GitHub: Our main company page is at [github.com/racksync](https://github.com/racksync)
 - 📱 x: [@racksync](https://x.com/racksync)
 - 📧 Email: contact@racksync.com
+- 🔥 **We're Hiring!** Send your resume to people@racksync.com
 
 ## 🤝 We're Available For
 
