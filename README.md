@@ -1,8 +1,5 @@
 # 👋 Welcome to RACKSYNC
 
-![GitHub followers](https://img.shields.io/github/followers/racksync?style=social)
-![Twitter Follow](https://img.shields.io/x/follow/racksync?style=social)
-
 > ### ✨ **VISIT OUR MAIN COMPANY PAGE: [github.com/racksync](https://github.com/racksync)** ✨
 > Discover all our open-source projects and contributions!
 
